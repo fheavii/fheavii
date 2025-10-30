@@ -12,9 +12,9 @@ A data-driven Mathematics undergraduate passionate about transforming raw data i
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="mailto:fanishaheavi@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="margin-left:15px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="margin-left:25px;" />
   </a>
   <a href="https://github.com/fheavii" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-left:15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-left:25px;" />
   </a>
 </div>
