@@ -8,13 +8,13 @@ A data-driven Mathematics undergraduate passionate about transforming raw data i
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fanishaheavi/" target="_blank">
+  <a href="https://www.linkedin.com/in/fanishaheavi/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 25px;" />
   </a>
-  <a href="mailto:fanishaheavi@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" style="margin: 0 25px;" />
+  <a href="mailto:fanishaheavi@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="45" style="margin: 0 25px;" />
   </a>
-  <a href="https://github.com/fheavii" target="_blank">
+  <a href="https://github.com/fheavii" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 0 25px;" />
   </a>
 </div>
