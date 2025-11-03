@@ -4,6 +4,11 @@ A data-driven Mathematics undergraduate passionate about transforming raw data i
 
 ## Analytical Tools
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="45" style="margin-right: 15px;"/>
+  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="75" style="margin-right: 15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Sheets_2020_Logo.svg" alt="Google Sheets" width="45"/>
+</p>
 
 ## Connect With Me
 
