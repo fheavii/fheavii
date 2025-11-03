@@ -5,9 +5,9 @@ A data-driven Mathematics undergraduate passionate about transforming raw data i
 ## Analytical Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="45" style="margin-right: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="45" style="margin-right: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" alt="Excel" width="45" style="margin-right: 15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" width="45" style="margin-right: 15px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtXL5iMUpyo9rv-wJGjZiR62QPubHeI6-wA&s" alt="Google Sheets" width="45"/>
 </p>
 
 ## Connect With Me
