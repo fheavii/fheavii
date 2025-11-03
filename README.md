@@ -8,13 +8,20 @@ A data-driven Mathematics undergraduate passionate about transforming raw data i
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fanishaheavi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin: 0 30px; vertical-align: middle;" />
-  </a>
-  <a href="mailto:fanishaheavi@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" style="margin: 0 30px; vertical-align: middle;" />
-  </a>
-  <a href="https://github.com/fheavii" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin: 0 30px; vertical-align: middle;" />
-  </a>
+  <span>
+    <a href="https://www.linkedin.com/in/fanishaheavi/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin: 0 30px; vertical-align: middle;" />
+    </a>
+  </span>
+  <span>
+    <a href="mailto:fanishaheavi@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" style="margin: 0 30px; vertical-align: middle;" />
+    </a>
+  </span>
+  <span>
+    <a href="https://github.com/fheavii" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin: 0 30px; vertical-align: middle;" />
+    </a>
+  </span>
 </div>
+
