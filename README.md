@@ -1,6 +1,6 @@
 ## 👋 About Me
 <p align="justify">
-A data driven Mathematics undergraduate passionate about transforming raw data into meaningful insights. With hands-on experience in administrative data processing and reporting at Badan Pusat Statistik (BPS) Temanggung Regency, I focus on developing strong analytical and visualization skills through <b>Excel and Power BI</b> projects. I enjoy designing clean, interactive dashboards that turn complex datasets into clear stories and support data-informed decision-making.
+A data driven Mathematics undergraduate passionate about transforming raw data into meaningful insights. With hands on experience in administrative data processing and reporting at Badan Pusat Statistik (BPS) Temanggung Regency, I focus on developing strong analytical and visualization skills through <b>Excel and Power BI</b> projects. I enjoy designing clean, interactive dashboards that turn complex datasets into clear stories and support data informed decision making.
 </p>
 
 ## 🧠 Analytical Tools
