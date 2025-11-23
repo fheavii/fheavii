@@ -11,7 +11,7 @@ I am a data driven Mathematics undergraduate with a strong passion for transform
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="90" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
      alt="Python" width="45" style="margin-right: 15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Looker.svg/1200px-Looker.svg.png" alt="Looker Studio" width="45" style="margin-right: 15px;"/>
+  <img src="https://strategicmarketsolutions.com/wp-content/uploads/2024/01/Looker-Studio-Logo.png" alt="Looker Studio" width="45" style="margin-right: 15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/1200px-Kaggle_Logo.svg.png" alt="Kaggle" width="45"/>
 </p>
 
