@@ -3,13 +3,15 @@
 I am a data driven Mathematics undergraduate passionate about transforming raw data into clear, actionable insights. My experience in administrative data processing at Badan Pusat Statistik (BPS) Temanggung has strengthened my analytical mindset and ability to work with real world datasets.
 <br>
 I specialize in:
-<br>
+</p>
+
 - <b>Data cleaning & transformation</b> using Python, Excel, and spreadsheets (Power Query, formulas, validation)
 - <b>Data automation</b> using Python (pandas, NumPy)
 - <b>Exploratory Data Analysis (EDA)</b>
 - <b>Interactive dashboards</b> in Excel, Power BI, Tableau, and Looker Studio
 - <b>Data storytelling</b> through intuitive, impactful visualizations
-<br>
+
+<p align="justify">
 I enjoy solving data challenges, improving workflows, and building tools that support better decision making. I’m continually learning, exploring new analytical methods, and working to create meaningful impact through data.
 </p>
 
